@@ -822,29 +822,30 @@ export const medicalproBranding = {
 export const themeColors = [
   {
     name: 'blue-theme',
-    color: '#1A97F5',
+    color: '#4D8DFF', // soft vivid blue
   },
   {
     name: 'green-theme',
-    color: '#03C9D7',
+    color: '#3DD9C0', // mint glass green
   },
   {
     name: 'purple-theme',
-    color: '#7352FF',
+    color: '#9A74FF', // soft violet glow
   },
   {
     name: 'red-theme',
-    color: '#FF5C8E',
+    color: '#FF6B81', // vibrant but soft red
   },
   {
     name: 'indigo-theme',
-    color: '#1E4DB7',
+    color: '#5C6BC0', // pastel indigo
   },
   {
-    color: '#FB9678',
     name: 'orange-theme',
+    color: '#FFA55C', // creamy glass orange
   },
 ];
+
 
 export const userProfileData = [
   {
@@ -979,8 +980,8 @@ export const customersData = [
   {
     CustomerID: 1005,
 
-    CustomerName: 'Michael',
-    CustomerEmail: 'michael@gmail.com',
+    CustomerName: 'Salah',
+    CustomerEmail: 'Salah@gmail.com',
     ProjectName: 'Weekly WP Theme',
     Status: 'Cancel',
     CustomerImage:
@@ -1049,8 +1050,8 @@ export const customersData = [
   {
     CustomerID: 1010,
 
-    CustomerName: 'Michael',
-    CustomerEmail: 'michael@gmail.com',
+    CustomerName: 'Salah',
+    CustomerEmail: 'Salah@gmail.com',
     ProjectName: 'Weekly WP Theme',
     Status: 'Cancel',
     CustomerImage:
@@ -1119,8 +1120,8 @@ export const customersData = [
   {
     CustomerID: 1015,
 
-    CustomerName: 'Michael',
-    CustomerEmail: 'michael@gmail.com',
+    CustomerName: 'Salah',
+    CustomerEmail: 'Salah@gmail.com',
     ProjectName: 'Weekly WP Theme',
     Status: 'Cancel',
     CustomerImage:
@@ -1189,8 +1190,8 @@ export const customersData = [
   {
     CustomerID: 1020,
 
-    CustomerName: 'Michael',
-    CustomerEmail: 'michael@gmail.com',
+    CustomerName: 'Salah',
+    CustomerEmail: 'Salah@gmail.com',
     ProjectName: 'Weekly WP Theme',
     Status: 'Cancel',
     CustomerImage:
@@ -1259,8 +1260,8 @@ export const customersData = [
   {
     CustomerID: 1025,
 
-    CustomerName: 'Michael',
-    CustomerEmail: 'michael@gmail.com',
+    CustomerName: 'Salah',
+    CustomerEmail: 'Salah@gmail.com',
     ProjectName: 'Weekly WP Theme',
     Status: 'Cancel',
     CustomerImage:
@@ -1329,8 +1330,8 @@ export const customersData = [
   {
     CustomerID: 1030,
 
-    CustomerName: 'Michael',
-    CustomerEmail: 'michael@gmail.com',
+    CustomerName: 'Salah',
+    CustomerEmail: 'Salah@gmail.com',
     ProjectName: 'Weekly WP Theme',
     Status: 'Cancel',
     CustomerImage:
@@ -1399,8 +1400,8 @@ export const customersData = [
   {
     CustomerID: 1035,
 
-    CustomerName: 'Michael',
-    CustomerEmail: 'michael@gmail.com',
+    CustomerName: 'Salah',
+    CustomerEmail: 'Salah@gmail.com',
     ProjectName: 'Weekly WP Theme',
     Status: 'Cancel',
     CustomerImage:
@@ -1467,8 +1468,8 @@ export const customersData = [
   },
   {
     CustomerID: 1040,
-    CustomerName: 'Michael',
-    CustomerEmail: 'michael@gmail.com',
+    CustomerName: 'Salah',
+    CustomerEmail: 'Salah@gmail.com',
     ProjectName: 'Weekly WP Theme',
     Status: 'Cancel',
     CustomerImage:
